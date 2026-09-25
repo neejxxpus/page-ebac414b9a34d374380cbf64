@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.evhfdgz.cn/sitemap.xml
